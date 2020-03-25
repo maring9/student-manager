@@ -1,5 +1,3 @@
-# **Student Manager Application**
-
 ## _Introduction_
 This application is an exercise for the FIS laboratory. You can find the lab assignment on the [lab web page](http://labs.cs.upt.ro/~oose/pmwiki.php/FSE/LAB2020).
 
@@ -14,4 +12,3 @@ For the purpose of demonstrating a complete Agile Workflow, we created a Jira in
 
 ## _Happy Coding_
 Have a nice time implementing the project!
-
